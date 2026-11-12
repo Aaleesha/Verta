@@ -1,0 +1,7 @@
+{
+  "name": "VERTA • Bio-Architectural Balcony Scanner & Farm",
+  "description": "Precision AR LiDAR scanning, thermal solar microclimate mapping, and bio-algorithmic crop planning for urban balconies.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
